@@ -1,0 +1,9 @@
+[16-Feb-2019 14:26:28 Asia/Calcutta] PHP Warning:  include(require/header.php): failed to open stream: No such file or directory in /home/adarshsolutions/public_html/admin/pages/index.php on line 3
+[16-Feb-2019 14:26:28 Asia/Calcutta] PHP Warning:  include(require/header.php): failed to open stream: No such file or directory in /home/adarshsolutions/public_html/admin/pages/index.php on line 3
+[16-Feb-2019 14:26:28 Asia/Calcutta] PHP Warning:  include(): Failed opening 'require/header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/adarshsolutions/public_html/admin/pages/index.php on line 3
+[16-Feb-2019 14:26:28 Asia/Calcutta] PHP Notice:  Undefined variable: _SESSION in /home/adarshsolutions/public_html/admin/pages/index.php on line 11
+[16-Feb-2019 14:26:28 Asia/Calcutta] PHP Notice:  Undefined variable: _SESSION in /home/adarshsolutions/public_html/admin/pages/index.php on line 222
+[16-Feb-2019 14:26:28 Asia/Calcutta] PHP Notice:  Undefined variable: _SESSION in /home/adarshsolutions/public_html/admin/pages/index.php on line 455
+[16-Feb-2019 14:26:28 Asia/Calcutta] PHP Warning:  include(require/footer.php): failed to open stream: No such file or directory in /home/adarshsolutions/public_html/admin/pages/index.php on line 466
+[16-Feb-2019 14:26:28 Asia/Calcutta] PHP Warning:  include(require/footer.php): failed to open stream: No such file or directory in /home/adarshsolutions/public_html/admin/pages/index.php on line 466
+[16-Feb-2019 14:26:28 Asia/Calcutta] PHP Warning:  include(): Failed opening 'require/footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/adarshsolutions/public_html/admin/pages/index.php on line 466
